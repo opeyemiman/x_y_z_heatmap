@@ -4,7 +4,7 @@
 1. CSV with three columns representing x, y and z (intensity) respectively.
 2. plot figure size
 3. Colorscheme 
-4. Console: Data callout, plot bounds,
+4. Console: Data callout, plot bounds, name of background image
 
    
 ## heatmaps_plotter
