@@ -13,5 +13,5 @@ Accepts csv of points and intensity and provides you options to decide plot boun
 ### Note: while the x dimension of images is left to right, the y dimension is up to down, NOT down to up. 
 
 ## advanced_intensity_map-overlay
-A full Jupyter notebook ipywidgets dashboard that performs the same functions as the basic script with advanced additional options; user-defined labels axes and legends | placement of plot labels | colorscheme options | interpolation method |
+A full Jupyter notebook ipywidgets dashboard that performs the same functions as the basic script with advanced additional options; user-defined labels for axes and legends | placement of plot labels | colorscheme options | interpolation method |
 
